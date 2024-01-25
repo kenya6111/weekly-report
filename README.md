@@ -36,6 +36,8 @@
 - Task1
     - Recursion DBコース(火曜:3h)
     - Recursion DBコース(水曜:3h)
+    - Recursion DBコース(水曜:2h)
+    - Recursion バックエンドプロジェクト(水曜:1h)
 
 
 ## タスクの進捗について
